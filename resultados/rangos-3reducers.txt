@@ -1,0 +1,6 @@
+/tmp/equipo6/tera-out3/part-r-00000
+ 00 00 66 fc 34 d9 bc 9d 51 e1
+/tmp/equipo6/tera-out3/part-r-00001
+ 55 0e fb 88 3a d3 90 c9 f0 b3
+/tmp/equipo6/tera-out3/part-r-00002
+ aa 23 05 72 b4 f4 bd 81 5f 40

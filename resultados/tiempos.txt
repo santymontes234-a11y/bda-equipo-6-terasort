@@ -1,0 +1,8 @@
+== 500000 filas ==
+real	0m1.938s
+real	0m4.344s
+real	0m1.924s
+== 1000000 filas ==
+real	0m1.884s
+real	0m5.225s
+real	0m1.986s

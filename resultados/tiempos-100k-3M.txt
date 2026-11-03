@@ -1,0 +1,6 @@
+Filas       Tamaño     teragen   terasort   teravalidate
+100,000     ~10 MB     1.9 s     2.3 s      1.9 s
+500,000     ~50 MB     1.9 s     4.3 s      1.9 s
+1,000,000   ~100 MB    1.9 s     5.2 s      2.0 s
+3,000,000   ~300 MB    2.9 s     9.3 s      3.0 s
+(modo local, 3 reducers)
